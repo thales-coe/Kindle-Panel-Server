@@ -228,24 +228,14 @@ Ver `docs/DEPLOYMENT.md` para um exemplo completo de unit file.
 
 ---
 
-## 12. Próximos passos recomendados
-
-1. Extrair configurações para `.env`.
-2. Separar coleta de dados, renderização HTML e servidor em módulos distintos.
-3. Adicionar logs estruturados.
-4. Criar testes unitários para parsers e helpers.
-5. Criar rota `/health` para monitoramento.
-6. Adicionar serviço `systemd` e reinício automático.
-7. Sanitizar identificadores pessoais antes de tornar o repositório público.
 
 ---
 
-## 13. Licença
+## 12. Licença
 
-Defina a licença do projeto antes de publicar. Se você ainda não decidiu, mantenha o repositório sem licença até escolher explicitamente uma.
-
+MIT
 ---
 
-## 14. Aviso
+## 13. Aviso
 
 Este projeto foi documentado a partir do arquivo Python enviado pelo usuário. A documentação técnica acima reflete o comportamento observável do código-base fornecido. fileciteturn0file0
